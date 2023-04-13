@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from keras.applications.vgg19 import VGG19
 import tensorflow
 import mlflow
-from disutils.command.config import config
+from distutils.command.config import config
 from http import client 
 from mlflow.tracking import MlflowClient
 from pprint import pprint
