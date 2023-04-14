@@ -14,3 +14,5 @@ jupyterlab
 # logging
 pytest-shutil
 argparse
+joblib
+seaborn
